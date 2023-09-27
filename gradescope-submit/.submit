@@ -1,0 +1,9 @@
+[course]
+id = 595112
+name = "CMSC420"
+term = "Fall 2023"
+
+[assignment]
+id = 3251581
+name = "coding-1"
+files = [ "bst.py" ]

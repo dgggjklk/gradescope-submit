@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: gradescope-submit
+Version: 0.1.0
+Summary: My attempt at converting the gradescope-submit script to a python package for windows
+Home-page: https://github.com/dgggjklk/gradescope-submit
+Author: TWelsh
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Students
+Classifier: Operating System :: Windows

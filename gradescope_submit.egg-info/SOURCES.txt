@@ -1,0 +1,8 @@
+README.md
+setup.py
+gradescope-submit/__init__.py
+gradescope_submit.egg-info/PKG-INFO
+gradescope_submit.egg-info/SOURCES.txt
+gradescope_submit.egg-info/dependency_links.txt
+gradescope_submit.egg-info/requires.txt
+gradescope_submit.egg-info/top_level.txt
